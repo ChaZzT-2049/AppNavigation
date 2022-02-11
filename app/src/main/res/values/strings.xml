@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="btn_act1">Siguiente Activity</string>
+    <string name="txv_act1">Primer Activity</string>
+    <string name="btn_act2">Anterior Activity</string>
+    <string name="txv_act2">Segundo Activity</string>
+</resources>
